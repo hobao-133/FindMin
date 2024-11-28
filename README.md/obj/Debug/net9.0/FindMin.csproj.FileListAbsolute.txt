@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\bin\Debug\net9.0\FindMin.exe
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\bin\Debug\net9.0\FindMin.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\bin\Debug\net9.0\FindMin.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\bin\Debug\net9.0\FindMin.dll
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\bin\Debug\net9.0\FindMin.pdb
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\FindMin.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\FindMin.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\FindMin.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\FindMin.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\FindMin.dll
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\refint\FindMin.dll
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\FindMin.pdb
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\FindMin.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\FindMin\obj\Debug\net9.0\ref\FindMin.dll
